@@ -1,0 +1,27 @@
+{
+  "name": "gs-data-sync",
+  "version": "1.0.0",
+  "description": "a tool to trnsfer data from one source to another",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nyolamike/gs-data-sync.git"
+  },
+  "keywords": [
+    "data",
+    "transfer",
+    "sync"
+  ],
+  "author": "mike.nyola@greenstone.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyolamike/gs-data-sync/issues"
+  },
+  "homepage": "https://github.com/nyolamike/gs-data-sync#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
